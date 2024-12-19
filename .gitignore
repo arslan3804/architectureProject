@@ -1,0 +1,5 @@
+# Игнорируем директорию volume-data
+api-gateway/volume-data/
+
+# Игнорируем сокеты MySQL
+*.sock
